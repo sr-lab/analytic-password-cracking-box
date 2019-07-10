@@ -24,10 +24,10 @@ From there, use:
 vagrant ssh
 ```
 
-To access the box over SSH.
+To access the box over SSH if you like, though there's a full desktop system installed for you to interact with if you like.
 
 ## Usage
-
+For usage information, consult the repo for the [analytic password cracking tool](https://github.com/UChicagoSUPERgroup/analytic-password-cracking) repo. The utility is installed to `~/analytic-password-cracking`.
 
 ## Details
 The box is running Ubuntu "Bionic Beaver" 18.04 LTS (Desktop) with:
